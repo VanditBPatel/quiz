@@ -2,9 +2,9 @@
 
 import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Question from "./Components/Question";
-import qBank from "./Components/QuestionBank";
-import Score from "./Components/Score";
+import Question from "./Components/Question.js";
+import qBank from "./Components/QuestionBank.js";
+import Score from "./Components/Score.js";
 import "./App.css";
 
 class App extends Component {

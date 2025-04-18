@@ -1,7 +1,7 @@
 // Question.js
 
 import React, {Component} from "react";
-import Options from "./Option";
+import Options from "./Options.js";
 
 class Question extends Component{
     render() {
